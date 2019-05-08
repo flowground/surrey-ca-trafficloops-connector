@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "properties": {
+        "startdatetime": {
+            "type": "number"
+        },
+        "enddatetime": {
+            "type": "number"
+        }
+    }
+}
